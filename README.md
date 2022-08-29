@@ -1,6 +1,14 @@
 # AntlrParserTrial
 Ten projekt zawiera bardzo okrojoną wersję parsera SQL.
 
+Pliki utworzone w pełni przeze mnie:
+SQL.g4
+Program.cs
+SQLListenerSelectBase.cs
+SQLListenerSelectJoined.cs
+IColumnParser.cs
+Projekt: SQLParserTester.csproj
+
 Większość podstawowych funkcji typu SELECT oraz funkcji SELECT z zastosowaniem JOIN powinno działać.
 
 Zastosowane zostały testy dla obu rodzajów SELECTa
