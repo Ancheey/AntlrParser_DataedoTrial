@@ -2,7 +2,7 @@
 Ten projekt zawiera bardzo okrojoną wersję parsera SQL.
 
 Pliki utworzone w pełni przeze mnie:
-SQL.g4
+SQL.g4\n
 Program.cs
 SQLListenerSelectBase.cs
 SQLListenerSelectJoined.cs
