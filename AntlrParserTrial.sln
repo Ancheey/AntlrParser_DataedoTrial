@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AntlrParserTrial", "AntlrParserTrial\AntlrParserTrial.csproj", "{19B2D42F-02E3-4BCD-AE56-F557A9706AE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLParserTester", "SQLParserTester\SQLParserTester.csproj", "{D8A21D7A-01A4-4D99-928B-80E007CA3E19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B2D42F-02E3-4BCD-AE56-F557A9706AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B2D42F-02E3-4BCD-AE56-F557A9706AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B2D42F-02E3-4BCD-AE56-F557A9706AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B2D42F-02E3-4BCD-AE56-F557A9706AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8A21D7A-01A4-4D99-928B-80E007CA3E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A21D7A-01A4-4D99-928B-80E007CA3E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A21D7A-01A4-4D99-928B-80E007CA3E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A21D7A-01A4-4D99-928B-80E007CA3E19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DBF2C39-5EB7-411E-9345-BBF05039335D}
+	EndGlobalSection
+EndGlobal
